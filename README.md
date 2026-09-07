@@ -1,6 +1,6 @@
-#👋Olá, eu sou o Pedro Henrique Nunes de Almeida- <br>
-💻Estudante de Desenvolvimento de Sistemas -<br>
-🛰️Focado em Python, HTML e CSS - - <br>
+👋Olá, eu sou o Pedro Henrique Nunes de Almeida <br>
+💻Estudante de Desenvolvimento de Sistemas <br>
+🛰️Focado em Python, HTML e CSS  <br>
 ⏲️Preparando-se para o mercado de tecnologia <br>
 📫Contato: almeidaregino@gmail.com <br>
 
