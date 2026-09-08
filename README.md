@@ -1,4 +1,4 @@
-👋 Olá, me Pedro Henrique Nunes de Almeida <br>
+👋 Olá, sou Pedro Henrique Nunes de Almeida <br>
 💻 Estudante de Desenvolvimento de Sistemas <br>
 🛰️ Com foco em Python, HTML e CSS  <br>
 ⏲️ Me preparando para o mercado de tecnologia <br>
